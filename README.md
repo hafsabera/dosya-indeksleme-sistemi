@@ -118,22 +118,3 @@ uygulayabilirsiniz:
        veya arama yaptiginizda program cokmez, kibarca
            "Bulunamadi"
        uyarisi verir.
-
-
---------------------------------------------------------------------------------
-4. GELISTIRICI BILGILERI
---------------------------------------------------------------------------------
-
-    Ders           : BIL110 - Programlama ve Hesaplama II
-    Ders Sorumlusu : Prof. Dr. Serdar Muldur
-
-    Proje Ekibi:
-        o Hafsa Bera Pekcan  (250205001)
-        o Elif Casun         (250205014)
-        o Gulbade Yildiz     (250206003)
-        o Nuray Aliyeva      (250206901)
-
-
-================================================================================
-                              SON
-================================================================================
